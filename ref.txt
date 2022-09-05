@@ -1,0 +1,8 @@
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_for?view=powershell-7.2
+
+example:
+$i=1
+for(;$i -le 10;$i++)
+{
+    Write-Host $i
+}
